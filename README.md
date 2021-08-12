@@ -2,8 +2,9 @@
 ExpressJs CRUD mySql
 
 npm init,
-install express,
-install hbs,
-install body-parse,
-install cors,
-install mysql.
+npm install nodemon,
+npm install express,
+npm install hbs,
+npm install body-parse,
+npm install cors,
+npm install mysql.
